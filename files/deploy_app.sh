@@ -10,7 +10,7 @@ cat << EOM > /var/www/html/index.html
 
   <!-- BEGIN -->
   <center><img src="http://placekitten.com/600/800"></img></center>
-  <center><h2>Meow World!</h2></center>
+  <center><h2>Its all over now!</h2></center>
   Welcome to the dark side.
   <!-- END -->
 
